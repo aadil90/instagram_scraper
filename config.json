@@ -1,0 +1,12 @@
+{
+    "low_delay" : 5,
+    "med_delay" : 8,
+    "big_delay" : 12,
+    "extra_big_delay" : 20,
+
+    "input_file" : "input.csv",
+    
+    "output_file" : "output.csv",
+    
+    "default_driver" : "geckodriver.exe"
+} 

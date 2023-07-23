@@ -1,0 +1,56 @@
+=== 2022-05-19 17:10:00,439 || ERROR ||  68 --- Failed to enter passwd due to Message: Unable to locate element: (//*[@class="_2hvTZ pexuQ zyHYP"])[2]
+  ===
+=== 2022-05-19 17:10:00,484 || ERROR ||  75 --- Failed to enter passwd due to Message: Element <button class="sqdOP  L3NKy   y3zKF     " type="submit"> is not clickable at point (880,289) because another element <div class="             qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "> obscures it
+  ===
+=== 2022-05-19 17:11:42,079 || ERROR ||  70 --- Failed to enter passwd due to Message: Unable to locate element: (//*[@class="_2hvTZ pexuQ zyHYP"])[2]
+  ===
+=== 2022-05-19 17:11:42,099 || ERROR ||  77 --- Failed to login due to Message: Element <button class="sqdOP  L3NKy   y3zKF     " type="submit"> is not clickable at point (880,289) because another element <div class="             qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "> obscures it
+  ===
+=== 2022-05-19 22:41:08,491 || ERROR ||  70 --- Failed to enter passwd due to Message: Unable to locate element: (//*[@class="_2hvTZ pexuQ zyHYP"])[2]
+  ===
+=== 2022-05-19 22:41:08,546 || ERROR ||  77 --- Failed to login due to Message: Element <button class="sqdOP  L3NKy   y3zKF     " type="submit"> is not clickable at point (880,289) because another element <div class="             qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "> obscures it
+  ===
+=== 2022-05-19 22:47:34,385 || ERROR ||  70 --- Failed to enter passwd due to Message: Unable to locate element: (//*[@class="_2hvTZ pexuQ zyHYP"])[2]
+  ===
+=== 2022-05-19 22:47:34,585 || ERROR ||  77 --- Failed to login due to Message: Element <button class="sqdOP  L3NKy   y3zKF     " type="submit"> is not clickable at point (880,289) because another element <div class="             qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "> obscures it
+  ===
+=== 2022-05-19 22:56:33,777 || ERROR ||  70 --- Failed to enter passwd due to Message: Unable to locate element: (//label[@class="f0n8F "]/input)[2]
+  ===
+=== 2022-05-19 22:56:33,834 || ERROR ||  77 --- Failed to login due to Message: Element <button class="sqdOP  L3NKy   y3zKF     " type="submit"> is not clickable at point (880,289) because another element <div class="             qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "> obscures it
+  ===
+=== 2022-05-19 22:58:37,565 || ERROR ||  70 --- Failed to enter passwd due to Message: Unable to locate element: (//label[@class="f0n8F "]/input)[2]
+  ===
+=== 2022-05-19 22:58:37,594 || ERROR ||  77 --- Failed to login due to Message: Element <button class="sqdOP  L3NKy   y3zKF     " type="submit"> is not clickable at point (880,289) because another element <div class="             qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "> obscures it
+  ===
+=== 2022-05-19 23:00:41,128 || ERROR ||  72 --- Failed to enter passwd due to Message: Unable to locate element: (//label[@class="f0n8F "]/input)[2]
+  ===
+=== 2022-05-19 23:00:43,160 || ERROR ||  81 --- Failed to login due to Message: Element <button class="sqdOP  L3NKy   y3zKF     " type="submit"> is not clickable at point (880,289) because another element <div class="             qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "> obscures it
+  ===
+=== 2022-05-19 23:02:23,165 || ERROR ||  72 --- Failed to enter passwd due to Message: Unable to locate element: (//label[@class="f0n8F "]/input)[2]
+  ===
+=== 2022-05-19 23:02:25,205 || ERROR ||  81 --- Failed to login due to Message: Element <button class="sqdOP  L3NKy   y3zKF     " type="submit"> is not clickable at point (880,289) because another element <div class="             qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "> obscures it
+  ===
+=== 2023-07-23 17:31:25,479 || INFO ||  11 --- ====== WebDriver manager ======  ===
+=== 2023-07-23 17:31:25,746 || INFO ||  11 --- Get LATEST geckodriver version for 96.0 firefox  ===
+=== 2023-07-23 17:31:27,293 || INFO ||  11 --- There is no [linux64] geckodriver for browser 96.0 in cache  ===
+=== 2023-07-23 17:31:27,294 || INFO ||  11 --- Getting latest mozilla release info for v0.33.0  ===
+=== 2023-07-23 17:31:31,455 || INFO ||  11 --- About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-linux64.tar.gz  ===
+=== 2023-07-23 17:32:09,880 || INFO ||  11 --- Driver has been saved in cache [/home/aadil/.wdm/drivers/geckodriver/linux64/0.33]  ===
+=== 2023-07-23 17:32:35,092 || ERROR ||  64 --- Failed to enter email due to Message: Unable to locate element: (//*[@class="_2hvTZ pexuQ zyHYP"])[1]
+Stacktrace:
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:183:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:395:5
+element.find/</<@chrome://remote/content/marionette/element.js:300:16
+  ===
+=== 2023-07-23 17:32:37,099 || ERROR ||  73 --- Failed to enter passwd due to Message: Unable to locate element: (//label[@class="f0n8F "]/input)[2]
+Stacktrace:
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:183:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:395:5
+element.find/</<@chrome://remote/content/marionette/element.js:300:16
+  ===
+=== 2023-07-23 17:32:39,109 || ERROR ||  82 --- Failed to login due to Message: Unable to locate element: //button[@class="sqdOP  L3NKy   y3zKF     "]
+Stacktrace:
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:183:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:395:5
+element.find/</<@chrome://remote/content/marionette/element.js:300:16
+  ===
